@@ -1,0 +1,28 @@
+# 🌐 Node modules (both frontend and backend)
+**/node_modules/
+
+# 🔐 Environment variable files
+**/.env
+
+# 🛠️ Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ⚙️ Build outputs
+Frontend/dist/
+Frontend/.vite/
+Frontend/.cache/
+Frontend/build/
+
+# ⚙️ OS + Editor junk
+.DS_Store
+Thumbs.db
+
+# 💻 IDE/editor settings
+.vscode/
+.idea/
+
+# 📦 Optional: skip coverage or test outputs
+coverage/
