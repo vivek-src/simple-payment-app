@@ -39,6 +39,14 @@ A simple full-stack payment app built with React, Express, MongoDB, and JWT — 
 - dotenv
 - CORS
 
+## Screenshots
+
+<p align="center">
+  <img src="images/img1.png" width="32%" />
+  <img src="images/img2.png" width="32%" />
+  <img src="images/img3.png" width="32%" />
+</p>
+
 ## Project Structure
 
 ```plaintext
@@ -137,14 +145,6 @@ simple-payment-app/
 - Protected API routes
 - Input validation and sanitization
 - CORS configuration
-
-## Screenshots
-
-<p align="center">
-  <img src="images/img1.png" width="32%" />
-  <img src="images/img2.png" width="32%" />
-  <img src="images/img3.png" width="32%" />
-</p>
 
 ## Future Enhancements (For Learning & Fun)
 
