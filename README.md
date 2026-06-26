@@ -83,7 +83,7 @@ simple-payment-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/viveksahux/simple-payment-app.git
+   git clone https://github.com/vivek-src/simple-payment-app.git
    cd simple-payment-app
    ```
 2. **Setup Backend**
